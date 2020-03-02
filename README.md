@@ -3,7 +3,7 @@
 The main method will run a traffic simulation of one of the intersections in Uppsala
 
 # The simulations output will be of the following format.
-------------- Time = 1 ----------------------
+------------- Time = 1 ----------------------.
 (R)<[W, W, W, W, W, W, W, W]><[W, S, W, W, S, W, W, W, S, S]>
 (R)<[S, ., ., ., ., ., ., .]> Q [W, S, W, S]
 ------------- Time = 2 ----------------------
