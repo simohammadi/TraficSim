@@ -6,10 +6,12 @@ The main method will run a traffic simulation of one of the intersections in Upp
 * ------------- Time = 1 ----------------------
 
 (R)<[W, W, W, W, W, W, W, W]><[W, S, W, W, S, W, W, W, S, S]>
+
 (R)<[S, ., ., ., ., ., ., .]> Q [W, S, W, S]
 
 * ------------- Time = 2 ----------------------
 (R)<[W, W, W, W, W, W, W, W]><[W, S, W, W, S, W, W, W, S, S]>
+
 (G)<[S, ., ., ., ., ., ., .]> Q [W, S, W, S]
 
 The first line corresponds to the trafic lights beeing either (G)-green or (R)-red.
