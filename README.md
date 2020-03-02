@@ -20,3 +20,5 @@ The first line corresponds to the trafic lights beeing either (G)-green or (R)-r
 The letters inside the array gives the heading of the vehicle, either S-South or W-West.
 
 The Q-queue array is where cars wait if both arrays are full.
+
+Once the simulation has reached 100 steps the user can choose to quit or continue the simularion for another 100 steps.
