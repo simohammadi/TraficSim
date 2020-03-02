@@ -200,8 +200,8 @@ public class TrafficSystem {
 	 */
 	public void print() {
 
-		System.out.println("(" + lightWest.toString() + ")" +laneW.toString() + lane.toString());
-		System.out.println("(" + lightSouth.toString() + ")" + laneS.toString() + " Q " + queue.toString());
+		System.out.println("(" + lightWest.toString() + ")" +laneW.toString() + lane.toString() + " Q " + queue.toString());
+		System.out.println("(" + lightSouth.toString() + ")" + laneS.toString());
 
 
 	}
